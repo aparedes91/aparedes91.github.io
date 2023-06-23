@@ -1694,10 +1694,10 @@ input, select, textarea {
 		outline: 0;
 	}
 
-		.image img {
+		/* .image img {
 			display: block;
 			width: 100%;
-		}
+		} */
 
 		.image.centered {
 			display: block;

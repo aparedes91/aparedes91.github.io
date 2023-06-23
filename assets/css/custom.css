@@ -1,0 +1,35 @@
+#footerSection {
+    background-color: #ffffff;
+}
+
+#footerSection section {
+    padding: 5px 0px;
+}
+
+#footerSection header {
+    text-align: center;
+    padding: 20px;
+    margin: 15px 0px;
+}
+#footerSection .social {
+    text-align: center;
+}
+#footerSection h2 {
+    font-size: 45px;
+    color: black;
+}
+body {
+    background-color: #fff;
+}
+#GameCo {
+    width: 100%;
+}
+#Influenza {
+    width: 100%;
+}
+#github-icon {
+    background: black;
+}
+#linkedin-icon {
+    background: #0a66c2;
+}
