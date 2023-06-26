@@ -2185,7 +2185,7 @@ input, select, textarea {
 
 		#banner header {
 			background-color: rgba(34, 30, 31, 0.98);
-			display: inline-block;
+			/* display: inline-block; */
 			padding: 2.5em 5em;
 			border-radius: 5px;
 		}
@@ -2330,7 +2330,7 @@ input, select, textarea {
 		}
 
 			#footer header h2 {
-				font-size: 1.75em;
+				font-size: 85px;
 			}
 
 /* Copyright */

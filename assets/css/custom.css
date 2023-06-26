@@ -1,5 +1,5 @@
 #footerSection {
-    background-color: #ffffff;
+    background-color: #d52349;
 }
 
 #footerSection section {
@@ -15,11 +15,11 @@
     text-align: center;
 }
 #footerSection h2 {
-    font-size: 45px;
+    font-size: 70px;
     color: black;
 }
 body {
-    background-color: #fff;
+    background-color: #ffffff;
 }
 #GameCo {
     width: 100%;
@@ -32,4 +32,46 @@ body {
 }
 #linkedin-icon {
     background: #0a66c2;
+}
+.projectimage {
+    width: 100%;
+    height: auto;
+}
+#main {
+    background: url(https://www.citymatchlearning.org/images/ThinkstockPhotos-179694078.jpg) no-repeat center;
+    background-size: 100% 100%;
+}
+#banner {
+    background: url(https://www.pathstream.com/blog/wp-content/uploads/Blog-Post-Templates-86.png);
+    background-position: center center;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    text-align: center;
+    position: relative;
+    padding: 8em 0;
+    margin: 4em 0 0 0;
+}
+#banner header h2 {
+    font-size: 56px;
+}
+#banner header p {
+    font-size: 36px;
+    font-weight: bold;
+}
+#header h1 {
+    color: #252122;
+    font-size: 115px;
+}
+#nav > ul > li.current > a {
+    font-weight: bold;
+}
+#myButton.btn-primary {
+    font-size: 20px;
+    display: inline-block;
+}
+#port {
+    text-align: center;
+}
+#footer {
+    padding: 0px 0;
 }
