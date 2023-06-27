@@ -1,14 +1,14 @@
 #footerSection {
-    background-color: #d52349;
+    background-color: #ffffff;
 }
 
 #footerSection section {
-    padding: 5px 0px;
+    padding: 18px 0px;
 }
 
 #footerSection header {
     text-align: center;
-    padding: 20px;
+    padding: 28px;
     margin: 15px 0px;
 }
 #footerSection .social {
@@ -37,10 +37,10 @@ body {
     width: 100%;
     height: auto;
 }
-#main {
+/* #main { 
     background: url(https://www.citymatchlearning.org/images/ThinkstockPhotos-179694078.jpg) no-repeat center;
     background-size: 100% 100%;
-}
+} */
 #banner {
     background: url(https://www.pathstream.com/blog/wp-content/uploads/Blog-Post-Templates-86.png);
     background-position: center center;
@@ -66,7 +66,7 @@ body {
     font-weight: bold;
 }
 #myButton.btn-primary {
-    font-size: 20px;
+    font-size: 28px;
     display: inline-block;
 }
 #port {
@@ -74,4 +74,7 @@ body {
 }
 #footer {
     padding: 0px 0;
+}
+#copyright ul.links {
+    padding: 0.01em 1.25em 0.01em 3.25em;
 }
