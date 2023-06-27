@@ -2266,11 +2266,9 @@ input, select, textarea {
 
 	#main {
 		position: relative;
-		background-image: url(file:///C:/Users/alexp/Desktop/aparedes/images/Production.jpg);
-		background-repeat: no-repeat;
-		background-position: center;
-		background-size: cover;
-		padding: 4em 0;
+		background: url(https://datasciencedojo.com/wp-content/uploads/Understanding-Big-Data-scaled.jpg) no-repeat center;
+		background-size: 100% 100%;
+		padding: 4em 0 4em 0;
 	}
 
 		#main:before {
