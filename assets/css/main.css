@@ -2266,9 +2266,11 @@ input, select, textarea {
 
 	#main {
 		position: relative;
-		background: url(https://www.citymatchlearning.org/images/ThinkstockPhotos-179694078.jpg) no-repeat center;
-		background-size: 100% 100%;
-		padding: 4em 0 4em 0;
+		background-image: url(file:///C:/Users/alexp/Desktop/aparedes/images/Production.jpg);
+		background-repeat: no-repeat;
+		background-position: center;
+		background-size: cover;
+		padding: 4em 0;
 	}
 
 		#main:before {
