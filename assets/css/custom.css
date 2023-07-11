@@ -41,6 +41,10 @@ body {
     background: url(../../images/Computer.jpg) no-repeat center;
     background-size: 100% 100%;
 }
+#different-page #main {
+    background: url(../../images/Computer.jpg) no-repeat center;
+    background-size: 100% 100%;
+  }
 #banner {
     background: url(https://www.pathstream.com/blog/wp-content/uploads/Blog-Post-Templates-86.png);
     background-position: center center;
