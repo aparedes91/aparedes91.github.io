@@ -101,7 +101,7 @@ input, select, textarea {
 	body, input, textarea, select {
 		font-family: 'Source Sans Pro';
 		font-weight: 300;
-		color: #5d5d5d;
+		color: #151112;
 		font-size: 14pt;
 		line-height: 1.75em;
 	}
@@ -144,7 +144,7 @@ input, select, textarea {
 	}
 
 	h2 {
-		font-size: 1.5em;
+		font-size: 42px;
 	}
 
 	h3 {
@@ -1531,7 +1531,7 @@ input, select, textarea {
 	}
 
 		section > :last-child, section:last-child, article > :last-child, article:last-child {
-			margin-bottom: 0;
+			margin-bottom: 2px;
 		}
 
 	header {
@@ -1548,7 +1548,7 @@ input, select, textarea {
 		header.major {
 			position: relative;
 			text-align: center;
-			border-top: solid 1px #ccc;
+			border-top: solid 0px #ccc;
 			top: 1em;
 			margin: 0 0 3em 0;
 		}
@@ -1556,10 +1556,10 @@ input, select, textarea {
 			header.major h2 {
 				background: #fff;
 				position: relative;
-				top: -0.65em;
+				top: 0.45em;
 				display: inline;
 				margin: 0;
-				padding: 0 1em 0 1em;
+				padding: 0px 1em 3px 1em;
 			}
 
 	footer {
@@ -2262,11 +2262,11 @@ input, select, textarea {
 			margin: 0;
 		}
 
-/* Main */
+Main
 
 	#main {
 		position: relative;
-		background: url(https://datasciencedojo.com/wp-content/uploads/Understanding-Big-Data-scaled.jpg) no-repeat center;
+		background: url(../../images/Computer.jpg) no-repeat center;
 		background-size: 100% 100%;
 		padding: 4em 0 4em 0;
 	}
@@ -2284,7 +2284,11 @@ input, select, textarea {
 		}
 
 		#main .major h2 {
-			background: #f7f7f7 url("images/bg02.png");
+			background: transparent url("images/bg02.png");
+			background-color: rgba(34, 30, 31, 0.98);
+			/* background-image: url("../../images/Computer.jpg"); */
+			background-blend-mode: multiply;
+			color: #d52349;
 		}
 
 /* Footer */
