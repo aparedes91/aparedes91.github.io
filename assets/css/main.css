@@ -1577,8 +1577,8 @@ input, select, textarea {
 		.box .image.featured {
 			position: relative;
 			width: auto;
-			left: 3.75em;
-			top: 2.75em;
+			left: 1.75em;
+			top: 1.75em;
 			margin: -4.5em 0 4.25em -3.5em;
 		}
 
